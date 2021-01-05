@@ -21,7 +21,7 @@ header section a img {
 }
 
 body {
-  background-image: url(public/img.jpg);
+  background-image: url(img.jpg);
 }
 
 .food-menu-grid-item-content h2 {
